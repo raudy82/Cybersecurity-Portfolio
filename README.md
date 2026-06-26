@@ -100,10 +100,3 @@ I was able to simulate a DoS attack
 Observed attack behavior in real time
 
 Prevented the attack using firewall rules
-
-
-## 👤 Author
-
-Raudy Martinez
-
-GitHub: raudy82
