@@ -4,10 +4,13 @@ This project is to demonstrate how I built a home lab using virtual machines to 
 
 ## 🎯 Objectives
 The goal is to simulate a Denial of Service (DoS) attack and then block it using firewall rules.
-Build a virtual network with separate internal and external zones
-Simulate an attack from an external machine
-Monitor live network traffic
-Apply firewall rules to stop malicious activity
+Build a virtual network with separate internal and external zones.
+
+Simulate an attack from an external machine.
+
+Monitor live network traffic.
+
+Apply firewall rules to stop malicious activity.
 
 ## 🧰 Tools & Technologies
 VirtualBox (Virtualization)
